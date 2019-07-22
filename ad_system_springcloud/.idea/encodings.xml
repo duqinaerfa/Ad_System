@@ -3,5 +3,9 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ad_eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ad_gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ad_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ad_system_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ad_system_service/ad_common" charset="UTF-8" />
   </component>
 </project>
