@@ -9,6 +9,8 @@
     <ignored path="$PROJECT_DIR$/ad_service/target/" />
     <ignored path="$PROJECT_DIR$/ad_system_service/target/" />
     <ignored path="$PROJECT_DIR$/ad_system_service/ad_common/target/" />
+    <ignored path="$PROJECT_DIR$/ad_system_service/ad_sponsor/ad_sponsor/target/" />
+    <ignored path="$PROJECT_DIR$/ad_system_service/ad_sponsor/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,48 +23,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/vo/CommonResponse.java">
+        <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/service/IUserService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/advice/CommonResponseDataAdvice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-434">
-              <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-              <folding>
-                <element signature="e#257#281#0" expanded="true" />
-                <element signature="e#799#823#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/exception/AdException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-              <folding>
-                <element signature="e#147#148#0" expanded="true" />
-                <element signature="e#167#168#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/advice/GlobalExceptionAdvice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="17" column="67" lean-forward="true" selection-start-line="17" selection-start-column="67" selection-end-line="17" selection-end-column="67" />
+            <state relative-caret-position="180">
+              <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -71,43 +35,60 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/conf/WebConfiguration.java">
+        <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/service/impl/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+            <state relative-caret-position="692">
+              <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#261#262#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/annotation/IgnoreResponseAdvice.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/pom.xml">
+        <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/utils/CommonUtils.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="510">
-              <caret line="34" column="12" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ad_system_service/pom.xml">
+        <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/constant/Constants.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+            <state relative-caret-position="255">
+              <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/vo/CreateUserRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/vo/CreateUserResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -117,6 +98,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -133,7 +116,6 @@
         <option value="$PROJECT_DIR$/ad_gateway/src/main/java/ad_system/filter/PreRequestFilter.java" />
         <option value="$PROJECT_DIR$/ad_gateway/src/main/java/ad_system/filter/AccessLogFilter.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/ad_system_service/pom.xml" />
         <option value="$PROJECT_DIR$/ad_system_service/ad_common/pom.xml" />
         <option value="$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/vo/CommonResponse.java" />
         <option value="$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/annotation/IgnoreResponseAdvice.java" />
@@ -141,6 +123,35 @@
         <option value="$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/exception/AdException.java" />
         <option value="$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/advice/GlobalExceptionAdvice.java" />
         <option value="$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/conf/WebConfiguration.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/pom.xml" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/pom.xml" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/SponsorApplication.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/entity/AdUser.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/constant/CommonStatus.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/entity/AdPlan.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/entity/AdUnit.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/entity/unit_condition/AdUnitKeyword.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/entity/unit_condition/AdUnitIt.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/entity/unit_condition/AdUnitDistrict.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/entity/Creative.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/entity/unit_condition/CreativeUnit.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/constant/CreativeType.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/constant/CreativeMetrialType.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/dao/AdUserRepository.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/dao/AdPlanRepository.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/dao/AdUnitRepository.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/dao/CreativeRepository.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/dao/unit_condition/AdUnitKeywordRepository.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/dao/unit_condition/AdUnitDistrictRepository.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/dao/unit_condition/AdUnitItRepository.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/dao/unit_condition/CreativeUnitRepository.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/vo/CreateUserRequest.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/vo/CreateUserResponse.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/service/IUserService.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/constant/Constants.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/utils/CommonUtils.java" />
+        <option value="$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/service/impl/UserServiceImpl.java" />
       </list>
     </option>
   </component>
@@ -151,10 +162,10 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="726" />
-    <option name="width" value="714" />
-    <option name="height" value="900" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="813" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -172,57 +183,6 @@
               <item name="ad_system_springcloud" type="b2602c69:ProjectViewProjectNode" />
               <item name="ad_system_springcloud" type="462c0819:PsiDirectoryNode" />
               <item name="ad_system_service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ad_system_springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ad_system_springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="ad_system_service" type="462c0819:PsiDirectoryNode" />
-              <item name="ad_common" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ad_system_springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ad_system_springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="ad_system_service" type="462c0819:PsiDirectoryNode" />
-              <item name="ad_common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ad_system_springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ad_system_springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="ad_system_service" type="462c0819:PsiDirectoryNode" />
-              <item name="ad_common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ad_system_springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ad_system_springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="ad_system_service" type="462c0819:PsiDirectoryNode" />
-              <item name="ad_common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ad_system_springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ad_system_springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="ad_system_service" type="462c0819:PsiDirectoryNode" />
-              <item name="ad_common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ad_system" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ad_system_springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ad_system_springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="ad_system_service" type="462c0819:PsiDirectoryNode" />
-              <item name="ad_common" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="ad_system" type="462c0819:PsiDirectoryNode" />
-              <item name="conf" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -305,17 +265,19 @@
       <workItem from="1563710354036" duration="3840000" />
       <workItem from="1563786469259" duration="4825000" />
       <workItem from="1563794836944" duration="3583000" />
+      <workItem from="1563799777552" duration="148000" />
+      <workItem from="1563877375131" duration="3237000" />
+      <workItem from="1563890587579" duration="3375000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12248000" />
+    <option name="totallyTimeSpent" value="19008000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="813" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18597998" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19241774" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -354,35 +316,6 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/ad_eureka/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="14" selection-end-column="76" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ad_eureka/src/main/java/ad_system/EurekaApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#367#368#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ad_gateway/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ad_eureka/ad_eureka.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/ad_gateway/src/main/java/ad_system/filter/PreRequestFilter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -393,9 +326,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ad_service/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_service/pom.xml" />
     <entry file="file://$PROJECT_DIR$/ad_gateway/src/main/java/ad_system/ZuulGatewayApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -443,30 +374,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/Tmp">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/Tmp.java">
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/Tmp" />
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/Tmp.java" />
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/annotation.java" />
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/annotation/IgnoreResponseAdvice.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/vo/CommonResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        <state relative-caret-position="120">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/annotation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -477,41 +394,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/ad_sponsor/pom.xml" />
     <entry file="file://$PROJECT_DIR$/ad_system_service/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="18" selection-start-line="16" selection-start-column="18" selection-end-line="16" selection-end-column="18" />
+        <state relative-caret-position="195">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/annotation/IgnoreResponseAdvice.java">
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/conf/WebConfiguration.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
           <folding>
             <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/advice/CommonResponseDataAdvice.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-434">
-          <caret line="3" column="16" lean-forward="true" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-          <folding>
-            <element signature="e#257#281#0" expanded="true" />
-            <element signature="e#799#823#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/exception/AdException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding>
-            <element signature="e#147#148#0" expanded="true" />
-            <element signature="e#167#168#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -526,12 +422,307 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/conf/WebConfiguration.java">
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/exception/AdException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="27" lean-forward="true" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        <state relative-caret-position="105">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/advice/CommonResponseDataAdvice.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_common/src/main/java/ad_system/vo/CommonResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_gateway/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="10" selection-start-line="38" selection-start-column="10" selection-end-line="38" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/constant/CommonStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="1" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/SponsorApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="62" selection-start-line="6" selection-start-column="62" selection-end-line="6" selection-end-column="62" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#259#260#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/entity/AdUnit.kt" />
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/entity/AdPlan.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="70" column="1" selection-start-line="70" selection-start-column="1" selection-end-line="70" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="55" selection-start-line="48" selection-start-column="55" selection-end-line="48" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/entity/AdUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/entity/AdUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/entity/unit_condition/AdUnitKeyword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/entity/unit_condition/AdUnitIt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" selection-start-line="2" selection-end-line="22" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/entity/unit_condition/AdUnitDistrict.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="603">
+          <caret line="50" column="1" selection-start-line="50" selection-start-column="1" selection-end-line="50" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/entity/Creative.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="56" column="14" selection-start-line="56" selection-start-column="14" selection-end-line="56" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/entity/unit_condition/CreativeUnit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.0.7.RELEASE/spring-data-jpa-2.0.7.RELEASE.jar!/org/springframework/data/jpa/repository/JpaRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/imooc-ad/chapter-5/ad-sponsor/src/main/java/com/imooc/ad/dao/unit_condition/AdUnitDistrictRepository.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/dao/unit_condition/CreativeUnitRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/dao/unit_condition/AdUnitItRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/dao/unit_condition/AdUnitDistrictRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/dao/unit_condition/AdUnitKeywordRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/dao/CreativeRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/dao/AdUnitRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="30" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/dao/AdPlanRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" lean-forward="true" selection-start-line="2" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/dao/AdUserRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/constant/CreativeMetrialType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/constant/CreativeType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/vo/CreateUserRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="19" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/vo/CreateUserResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/service/IUserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/constant/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="1" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/utils/CommonUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ad_system_service/ad_sponsor/src/main/java/ad_system/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="692">
+          <caret line="49" column="24" lean-forward="true" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#261#262#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -586,11 +777,12 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>Spring|ad_eureka</last-edited>
+          <last-edited>ad_sponsor</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
                 <option value="0.2" />
+                <option value="0.6" />
               </list>
             </option>
           </splitter-proportions>
