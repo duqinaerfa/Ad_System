@@ -1,10 +1,9 @@
-package vo;
+package ad_system.vo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
-
-import java.util.Date;
+import org.apache.commons.lang.StringUtils;
 
 /**
  * @author ：duqinmei
@@ -12,11 +11,13 @@ import java.util.Date;
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
-public class CreateUserResponse {
+public class CreateUserRequest {
 
-    private Long userId;
     private String username;
-    private String token;
-    private Date createTime;
-    private Date updateTime;
+
+    public boolean validate() {
+
+        return !StringUtils.isEmpty(username);
+    }
 }
+

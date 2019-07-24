@@ -1,8 +1,8 @@
 package ad_system.service;
 
 import ad_system.exception.AdException;
-import vo.CreateUserRequest;
-import vo.CreateUserResponse;
+import ad_system.vo.CreateUserRequest;
+import ad_system.vo.CreateUserResponse;
 
 /**
  * @author ：duqinmei
